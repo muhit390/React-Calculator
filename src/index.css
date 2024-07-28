@@ -39,7 +39,7 @@ body {
     background-color: var(--dark);
     color: var(--light);
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 .display span {
