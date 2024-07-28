@@ -55,7 +55,7 @@ function App() {
 
             <div className= "operators">
               <button onClick={() => updateCalc('/')}>/</button>
-              <button onClick={() => updateCalc('*')}>*</button>
+              <button onClick={() => updateCalc('*')}>X</button>
               <button onClick={() => updateCalc('+')}>+</button>
               <button onClick={() => updateCalc('-')}>-</button>
 
